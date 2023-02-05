@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moz-todo-app/static/css/main.d1c6f5e1.css",
+    "main.js": "/moz-todo-app/static/js/main.a2e6da8b.js",
+    "index.html": "/moz-todo-app/index.html",
+    "main.d1c6f5e1.css.map": "/moz-todo-app/static/css/main.d1c6f5e1.css.map",
+    "main.a2e6da8b.js.map": "/moz-todo-app/static/js/main.a2e6da8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c6f5e1.css",
+    "static/js/main.a2e6da8b.js"
+  ]
+}
